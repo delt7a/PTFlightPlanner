@@ -3,6 +3,8 @@ services:
     name: 24flightplanner
     env: node
     plan: free
-    buildCommand: npm run build
-    startCommand: npm start
-    repo: <your-github-repo-url>
+    buildCommand: npm install && npm run build
+    startCommand: node server/index.js
+    envVars:
+      - key: NODE_VERSION
+        value: 18
