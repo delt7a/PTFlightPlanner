@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: 24flightplanner
+    env: node
+    plan: free
+    buildCommand: npm run build
+    startCommand: npm start
+    repo: <your-github-repo-url>

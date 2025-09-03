@@ -1,0 +1,15 @@
+{
+  "name": "24flightplanner-rendr",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm:dev:*\"",
+    "dev:frontend": "cd frontend && npm install && npm run dev",
+    "dev:backend": "cd server && npm install && nodemon index.js",
+    "build": "cd frontend && npm install && npm run build",
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.0"
+  }
+}

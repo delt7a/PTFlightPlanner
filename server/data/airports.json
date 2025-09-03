@@ -1,0 +1,20 @@
+{
+  "KJFK": {
+    "icao": "KJFK",
+    "name": "John F. Kennedy Intl",
+    "lat": 40.6413,
+    "lon": -73.7781
+  },
+  "EGLL": {
+    "icao": "EGLL",
+    "name": "Heathrow",
+    "lat": 51.47,
+    "lon": -0.4543
+  },
+  "KSFO": {
+    "icao": "KSFO",
+    "name": "San Francisco Intl",
+    "lat": 37.6213,
+    "lon": -122.379
+  }
+}

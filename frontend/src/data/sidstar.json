@@ -1,0 +1,30 @@
+{
+  "KJFK": {
+    "SIDs": [
+      {
+        "name": "MERIT4",
+        "initialHeading": 60
+      }
+    ],
+    "STARs": [
+      {
+        "name": "CAMRN4",
+        "finalHeading": 240
+      }
+    ]
+  },
+  "EGLL": {
+    "SIDs": [
+      {
+        "name": "DET2F",
+        "initialHeading": 160
+      }
+    ],
+    "STARs": [
+      {
+        "name": "BOVA1",
+        "finalHeading": 80
+      }
+    ]
+  }
+}

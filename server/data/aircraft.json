@@ -1,0 +1,12 @@
+{
+  "A320": {
+    "type": "A320",
+    "cruise": "FL350",
+    "notes": "Typical short-medium haul airliner"
+  },
+  "B738": {
+    "type": "B738",
+    "cruise": "FL350",
+    "notes": "Boeing 737-800 equivalent"
+  }
+}
